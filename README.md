@@ -1,1 +1,1 @@
-# This the project of Java Swings
+# BMS Project using Java Swings
